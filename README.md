@@ -18,7 +18,7 @@ const kait = {
   tools: [React, Redux, Node, Styled-Components, Nest, Jest, Docker],
   technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "Nest"],
         },
         frontEnd: {
             Reactjs/ts

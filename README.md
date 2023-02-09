@@ -1,6 +1,6 @@
 <h2> Hi there  , I'm Khaoula AIT MARYAM ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Fullstack (BE Heavy) Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Architecture student of digital technologies at <a href="https://1337.ma/">1337 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Fullstack (BE Heavy) Engineer at <a href="https://www.finamaze.com/">Finamaze </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Architecture student of digital technologies at <a href="https://1337.ma/">1337 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Instagram: khaoula_ait_maryam](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.instagram.com/khaoula_ait_maryam/)
